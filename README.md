@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CodeIgniter, WordPress backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sapansathawara](https://github.com/Sapansathawara)
+- 👨‍💻 All of my projects are available at [https://github.com/Sapansathawara?tab=repositories](https://github.com/Sapansathawara?tab=repositories)
 
 - 💬 Ask me about **Core PHP, Laravel, MySQL, HTML, CSS, JavaScript and jQuery**
 

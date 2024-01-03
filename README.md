@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sapansathawara4@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I'm skilled at weaving backend magic, but I also bring a dash of humor to my code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
